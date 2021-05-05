@@ -30,6 +30,3 @@
 
 [twitter]: https://twitter.com/AleksinIlya
 [instagram]: https://www.instagram.com/ilya_freelanser/
-
-
-<hr/>
